@@ -1,0 +1,70 @@
+* {
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: Helvetica, sans-serif;
+}
+
+.navbar-custom {
+  background-color: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+}
+
+.carousel-item img {
+  height: 100vh; /* 3/4 layar */
+  object-fit: cover; /* Agar gambar menyesuaikan ukuran container */
+  min-height: 100vh;
+}
+
+.carousel-caption {
+  top: 50%;
+  transform: translateY(-50%);
+  bottom: initial;
+}
+.carousel-caption h1 {
+  font-size: 4rem; /* Ukuran font besar */
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7); /* Bayangan teks */
+}
+
+#container-info {
+  margin-top: 100px;
+}
+
+#daftar-konten {
+  margin: 10px;
+}
+
+.wave {
+  height: 220px;
+}
+
+#contact {
+  margin: auto;
+  width: 50%;
+  padding: 30px;
+  border-radius: 20px;
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px,
+    rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+}
+
+.btn-floating {
+  box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
+}
+
+.btn-floating:hover {
+  animation: moveRight 0.8s ease-in-out infinite;
+}
+
+@keyframes moveRight {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(25%);
+  }
+}

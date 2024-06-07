@@ -1,0 +1,107 @@
+{
+  "konten": [
+    {
+      "nama": "Bird Ilustration",
+      "deskripsi": "Sebuah gambar burung yang di dalamnya terdapat pemandangan ",
+      "gambar": "img/1.jpg"
+    },
+    {
+      "nama": "Art night vilage",
+      "deskripsi": "lukisan pedesaan saat malam malam hari di jepang ",
+      "gambar": "img/2.jpg"
+    },
+    {
+      "nama": "Black cat",
+      "deskripsi": "menggambarkan sebuah kucing hitam yang sedang menatap kota di malam hari",
+      "gambar": "img/3.jpg"
+    },
+    {
+      "nama": "Evening City",
+      "deskripsi": "Pemandangan kota saat sore hari",
+      "gambar": "img/4.jpg"
+    },
+    {
+      "nama": "AS card",
+      "deskripsi": "foto cinematic dari sebuah kartu",
+      "gambar": "img/5.jpg"
+    },
+
+    {
+      "nama": "GTR cars",
+      "deskripsi": "Gambar mobil GTR pada malam hari",
+      "gambar": "img/6.jpg"
+    },
+    {
+      "nama": "Car racing",
+      "deskripsi": "Mobil balap di malam hari yang mengeluarkan api",
+      "gambar": "img/7.jpg"
+    },
+    {
+      "nama": "Car Ilustration",
+      "deskripsi": "Ilustrasi mobil sport yang melaju kencang",
+      "gambar": "img/8.jpg"
+    },
+    {
+      "nama": "Sakura Girl",
+      "deskripsi": "Karakter anime perempuan di bawah pohon sakura",
+      "gambar": "img/9.jpg"
+    },
+    {
+      "nama": "Japanaese anime Girl",
+      "deskripsi": "Karakter anime perempuan yang memakai kimono",
+      "gambar": "img/10.jpg"
+    },
+
+    {
+      "nama": "Gun Quotes",
+      "deskripsi": "Gambar pistol yang tersusun dari kata-kata ",
+      "gambar": "img/11.jpg"
+    },
+    {
+      "nama": "Left and Right Brain",
+      "deskripsi": "gambar ilustrasi otak kanan dan kiri",
+      "gambar": "img/12.jpg"
+    },
+    {
+      "nama": "Night City",
+      "deskripsi": "Suasana kota saat malam hari",
+      "gambar": "img/13.jpg"
+    },
+    {
+      "nama": "Lake and City",
+      "deskripsi": "Pemandangan Danau yang di ujungnya terdapat sebuah Kota",
+      "gambar": "img/14.jpg"
+    },
+    {
+      "nama": "Japanese alley",
+      "deskripsi": "Sebuah gang sempit di jepang",
+      "gambar": "img/15.jpg"
+    },
+
+    {
+      "nama": "Japanese Traditional Market",
+      "deskripsi": "Pasar tradisional di negara Jepang",
+      "gambar": "img/16.jpg"
+    },
+    {
+      "nama": "Sport car",
+      "deskripsi": "Ilustrasi mobil balap saat setelah hujan",
+      "gambar": "img/17.jpg"
+    },
+    {
+      "nama": "Music Boy",
+      "deskripsi": "Seorang anak yang sedang mendengarkan musik",
+      "gambar": "img/18.jpg"
+    },
+    {
+      "nama": "Gamer Table",
+      "deskripsi": "Ilustrasi set up meja seorang gamers",
+      "gambar": "img/19.jpg"
+    },
+    {
+      "nama": "Gamers setup",
+      "deskripsi": "Meja seorang gamers yang menyala",
+      "gambar": "img/20.jpg"
+    }
+  ]
+}
